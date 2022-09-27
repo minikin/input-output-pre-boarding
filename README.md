@@ -22,8 +22,6 @@ Pre-Onboarding Resources
 - https://twitter.com/InputOutputHK
 - https://www.youtube.com/c/IohkIo
 - https://www.youtube.com/channel/UCiJiqEvUZxT6isIaXK7RXTg
-- Cardano360 April 2022 - YouTube
-
 
 ## Articles
 
